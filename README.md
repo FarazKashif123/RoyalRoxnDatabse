@@ -35,9 +35,6 @@ This project demonstrates the design and implementation of a relational database
 3. Insert your sample data using `insert_sample_data.sql`
 4. Review the ERD for understanding the structure and relationships
 
----
-
-Let me know if you want me to include actual SQL code or ERD images, or if you're uploading this to a live database (like PostgreSQL or MySQL).
 
 
 
