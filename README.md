@@ -22,4 +22,22 @@ This project demonstrates the design and implementation of a relational database
 - SQL (MySQL / PostgreSQL / Oracle compatible)
 - ERD tools (draw.io / Lucidchart, etc.)
 
+## ✅ Normalization Levels Applied
+
+- **1NF**: Removed multi-valued attributes and ensured atomicity  
+- **2NF**: Removed partial dependencies by creating separate tables for composite keys  
+- **3NF**: Removed transitive dependencies for cleaner relationships
+
+## 🚀 How to Use
+
+1. Clone the repository
+2. Run the `create_tables.sql` script in your SQL database environment
+3. Insert your sample data using `insert_sample_data.sql`
+4. Review the ERD for understanding the structure and relationships
+
+---
+
+Let me know if you want me to include actual SQL code or ERD images, or if you're uploading this to a live database (like PostgreSQL or MySQL).
+
+
 
